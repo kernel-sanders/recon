@@ -1,0 +1,276 @@
+[submodule "domained"]
+	path = domained
+	url = https://github.com/cakinney/domained.git
+[submodule "vuln-scanners/Silver"]
+	path = vuln-scanners/Silver
+	url = https://github.com/s0md3v/Silver
+[submodule "vuln-scanners/vulscan"]
+	path = vuln-scanners/vulscan
+	url = https://github.com/scipag/vulscan
+[submodule "vuln-scanners/vulnx"]
+	path = vuln-scanners/vulnx
+	url = https://github.com/anouarbensaad/vulnx
+[submodule "sherlock"]
+	path = sherlock
+	url = https://github.com/TheYahya/sherlock
+[submodule "bypass-firewalls-by-DNS-history"]
+	path = bypass-firewalls-by-DNS-history
+	url = https://github.com/vincentcox/bypass-firewalls-by-DNS-history
+[submodule "linkedin-tools/raven"]
+	path = linkedin-tools/raven
+	url = https://github.com/0x09AL/raven
+[submodule "linkedin-tools/crosslinked"]
+	path = linkedin-tools/crosslinked
+	url = https://github.com/m8r0wn/crosslinked
+[submodule "linkedin-tools/peasant"]
+	path = linkedin-tools/peasant
+	url = https://github.com/arch4ngel/peasant
+[submodule "bike-scan"]
+	path = bike-scan
+	url = https://github.com/interspective/bike-scan
+[submodule "vuls"]
+	path = vuls
+	url = https://github.com/future-architect/vuls
+[submodule "S3/slurp"]
+	path = S3/slurp
+	url = https://github.com/avineshwar/slurp
+[submodule "S3/bucket-stream"]
+	path = S3/bucket-stream
+	url = https://github.com/eth0izzle/bucket-stream
+[submodule "horn3t"]
+	path = horn3t
+	url = https://github.com/janniskirschner/horn3t
+[submodule "chomp-scan"]
+	path = chomp-scan
+	url = https://github.com/SolomonSklash/chomp-scan
+[submodule "harpoon"]
+	path = harpoon
+	url = https://github.com/Te-k/harpoon.git
+[submodule "can-i-take-over-xyz"]
+	path = can-i-take-over-xyz
+	url = https://github.com/EdOverflow/can-i-take-over-xyz
+[submodule "Arjun"]
+	path = Arjun
+	url = https://github.com/s0md3v/Arjun
+[submodule "shodan-tools/shodan-eye"]
+	path = shodan-tools/shodan-eye
+	url = https://github.com/BullsEye0/shodan-eye
+[submodule "shodan-tools/Shodmon"]
+	path = shodan-tools/Shodmon
+	url = https://github.com/inishantgrover/Shodmon
+[submodule "pygreynoise"]
+	path = pygreynoise
+	url = https://github.com/GreyNoise-Intelligence/pygreynoise.git
+[submodule "fuxploider"]
+	path = fuxploider
+	url = https://github.com/almandin/fuxploider
+[submodule "Striker"]
+	path = Striker
+	url = https://github.com/s0md3v/Striker
+[submodule "aiodnsbrute"]
+	path = aiodnsbrute
+	url = https://github.com/blark/aiodnsbrute
+[submodule "armory"]
+	path = armory
+	url = https://github.com/depthsecurity/armory
+[submodule "spoofcheck"]
+	path = spoofcheck
+	url = https://github.com/BishopFox/spoofcheck
+[submodule "pown-recon"]
+	path = pown-recon
+	url = https://github.com/pownjs/pown-recon
+[submodule "headless-chrome-crawler"]
+	path = headless-chrome-crawler
+	url = https://github.com/yujiosaka/headless-chrome-crawler.git
+[submodule "raindance"]
+	path = raindance
+	url = https://github.com/True-Demon/raindance
+[submodule "Sitadel"]
+	path = Sitadel
+	url = https://github.com/shenril/Sitadel.git
+[submodule "nmap-bootstrap-xsl"]
+	path = nmap-bootstrap-xsl
+	url = https://github.com/honze-net/nmap-bootstrap-xsl
+[submodule "multi/censys"]
+	path = multi/censys
+	url = https://github.com/gelim/censys
+[submodule "multi/Amass"]
+	path = multi/Amass
+	url = https://github.com/OWASP/Amass.git
+[submodule "multi/Osmedeus"]
+	path = multi/Osmedeus
+	url = https://github.com/j3ssie/Osmedeus
+[submodule "typofinder"]
+	path = typofinder
+	url = https://github.com/nccgroup/typofinder
+[submodule "HTTPScrapers"]
+	path = HTTPScrapers
+	url = https://github.com/NetSPI/HTTPScrapers
+[submodule "Metabigor"]
+	path = Metabigor
+	url = https://github.com/j3ssie/Metabigor
+[submodule "w12scan"]
+	path = w12scan
+	url = https://github.com/boy-hack/w12scan
+[submodule "other/social_mapper"]
+	path = other/social_mapper
+	url = https://github.com/Greenwolf/social_mapper
+[submodule "other/InstagramOSINT"]
+	path = other/InstagramOSINT
+	url = https://github.com/sc1341/InstagramOSINT
+[submodule "screenshot-tools/eyeballer"]
+	path = screenshot-tools/eyeballer
+	url = https://github.com/BishopFox/eyeballer
+[submodule "pown-whoarethey"]
+	path = pown-whoarethey
+	url = https://github.com/pownjs/pown-whoarethey
+[submodule "ActiveScanPlusPlus"]
+	path = ActiveScanPlusPlus
+	url = https://github.com/albinowax/ActiveScanPlusPlus
+[submodule "twint"]
+	path = twint
+	url = https://github.com/twintproject/twint
+[submodule "gograbber"]
+	path = gograbber
+	url = https://github.com/swarley7/gograbber
+[submodule "dirble"]
+	path = dirble
+	url = https://github.com/nccgroup/dirble
+[submodule "w12scan-client"]
+	path = w12scan-client
+	url = https://github.com/boy-hack/w12scan-client
+[submodule "dns-tools/dnsgen"]
+	path = dns-tools/dnsgen
+	url = https://github.com/ProjectAnte/dnsgen
+[submodule "dns-tools/findomain"]
+	path = dns-tools/findomain
+	url = https://github.com/Edu4rdSHL/findomain/
+[submodule "dns-tools/sublert"]
+	path = dns-tools/sublert
+	url = https://github.com/yassineaboukir/sublert
+[submodule "dns-tools/altdns"]
+	path = dns-tools/altdns
+	url = https://github.com/infosec-au/altdns.git
+[submodule "RecScanSec"]
+	path = RecScanSec
+	url = https://github.com/jaxBCD/RecScanSec
+[submodule "HostHunter"]
+	path = HostHunter
+	url = https://github.com/SpiderLabs/HostHunter
+[submodule "goop"]
+	path = goop
+	url = https://github.com/s0md3v/goop
+[submodule "breach-leak-tools/LeakLooker"]
+	path = breach-leak-tools/LeakLooker
+	url = https://github.com/woj-ciech/LeakLooker
+[submodule "IPOsint"]
+	path = IPOsint
+	url = https://github.com/j3ssie/IPOsint
+[submodule "goca"]
+	path = goca
+	url = https://github.com/gocaio/goca
+[submodule "ffuf"]
+	path = ffuf
+	url = https://github.com/ffuf/ffuf
+[submodule "multitor"]
+	path = multitor
+	url = https://github.com/trimstray/multitor
+[submodule "reddit-tools/reddit-analyzer"]
+	path = reddit-tools/reddit-analyzer
+	url = https://github.com/sshell/reddit-analyzer
+[submodule "Just-Metadata"]
+	path = Just-Metadata
+	url = https://github.com/FortyNorthSecurity/Just-Metadata
+[submodule "rustbuster"]
+	path = rustbuster
+	url = https://github.com/phra/rustbuster
+[submodule "cameradar"]
+	path = cameradar
+	url = https://github.com/Ullaakut/cameradar.git
+[submodule "email-tools/h8mail"]
+	path = email-tools/h8mail
+	url = https://github.com/khast3x/h8mail.git
+[submodule "email-tools/UhOh365"]
+	path = email-tools/UhOh365
+	url = https://github.com/Raikia/UhOh365
+[submodule "email-tools/SimplyEmail"]
+	path = email-tools/SimplyEmail
+	url = https://github.com/SimplySecurity/SimplyEmail
+[submodule "email-tools/mailspoof"]
+	path = email-tools/mailspoof
+	url = https://github.com/serain/mailspoof
+[submodule "phone-tools/PhoneInfoga"]
+	path = phone-tools/PhoneInfoga
+	url = https://github.com/sundowndev/PhoneInfoga
+[submodule "domains-etc/spyse.py"]
+	path = domains-etc/spyse.py
+	url = https://github.com/zeropwn/spyse.py
+[submodule "twitter-tools/twint"]
+	path = twitter-tools/twint
+	url = https://github.com/twintproject/twint
+[submodule "twitter-tools/tweets_analyzer"]
+	path = twitter-tools/tweets_analyzer
+	url = https://github.com/x0rz/tweets_analyzer
+[submodule "http-tools/recursive-gobuster"]
+	path = http-tools/recursive-gobuster
+	url = https://github.com/epi052/recursive-gobuster
+[submodule "http-tools/webtech"]
+	path = http-tools/webtech
+	url = https://github.com/ShielderSec/webtech
+[submodule "http-tools/Corsy"]
+	path = http-tools/Corsy
+	url = https://github.com/s0md3v/Corsy
+[submodule "http-tools/pywhatcms"]
+	path = http-tools/pywhatcms
+	url = https://github.com/HA71/pywhatcms
+[submodule "http-tools/recursebuster"]
+	path = http-tools/recursebuster
+	url = https://github.com/C-Sto/recursebuster
+[submodule "brutemap"]
+	path = brutemap
+	url = https://github.com/brutemap-dev/brutemap
+[submodule "domain-tools/domained"]
+	path = domain-tools/domained
+	url = https://github.com/cakinney/domained.git
+[submodule "domain-tools/CloudUnflare"]
+	path = domain-tools/CloudUnflare
+	url = https://github.com/greycatz/CloudUnflare
+[submodule "domain-tools/knockknock"]
+	path = domain-tools/knockknock
+	url = https://github.com/harleo/knockknock
+[submodule "domain-tools/subfinder"]
+	path = domain-tools/subfinder
+	url = https://github.com/subfinder/subfinder
+[submodule "trape"]
+	path = trape
+	url = https://github.com/jofpin/trape.git
+[submodule "decker"]
+	path = decker
+	url = https://github.com/stevenaldinger/decker
+[submodule "Vanquish"]
+	path = Vanquish
+	url = https://github.com/frizb/Vanquish
+[submodule "xray"]
+	path = xray
+	url = https://github.com/evilsocket/xray
+[submodule "PyRai"]
+	path = PyRai
+	url = https://github.com/TheSph1nx/PyRai
+[submodule "github-tools/GitGot"]
+	path = github-tools/GitGot
+	url = https://github.com/BishopFox/GitGot
+[submodule "github-tools/shhgit"]
+	path = github-tools/shhgit
+	url = https://github.com/eth0izzle/shhgit
+[submodule "github-tools/gitleaks"]
+	path = github-tools/gitleaks
+	url = https://github.com/zricethezav/gitleaks
+[submodule "stretcher"]
+	path = stretcher
+	url = https://github.com/6IX7ine/stretcher.git
+[submodule "ArchiveBox"]
+	path = ArchiveBox
+	url = https://github.com/pirate/ArchiveBox
+[submodule "vulnx"]
+	path = vulnx
+	url = https://github.com/anouarbensaad/vulnx
